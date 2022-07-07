@@ -1,7 +1,7 @@
 <img src="https://th.bing.com/th/id/R.e0037e5b030d948bb2f7ca0604899b8b?rik=1q83Y8ja0ao8jg&pid=ImgRaw&r=0" width="800">
 
 ### Greetins from Myanmar! I'm <code><font color="teal">Phyo Thiha</font></code> :wave::heart:
-Always love to chat and discuss about tech, and business domains. Writing code in a quite place with innerpeace is my kink. Also I am obessed about pets especially cats :cat: and hip-hop culture. Developing multi business units operational systems for [one of the biggest retail companies in Myanmar](https://cityholdings.com.mm/companies).
+Always love to chat and discuss about tech, and business domains. Interest in internet-of-things and low-level programming. Developing multi business units operational systems for [one of the biggest retail companies in Myanmar](https://cityholdings.com.mm/companies).
 
 :mailbox_with_mail: Reach me at - phyothihakyaw.personal@gmail.com
 
