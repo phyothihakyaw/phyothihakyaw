@@ -1,4 +1,5 @@
-<img src="https://th.bing.com/th/id/R.e0037e5b030d948bb2f7ca0604899b8b?rik=1q83Y8ja0ao8jg&pid=ImgRaw&r=0" width="1000">
+<img src="https://th.bing.com/th/id/R.e0037e5b030d948bb2f7ca0604899b8b?rik=1q83Y8ja0ao8jg&pid=ImgRaw&r=0" width="800">
+
 #### Greetins from Myanmar! I'm Phyo Thiha :wave::heart:
 Love to discuss about tech, business domains, writing code in a quite place, and cats. Developing multi business units operational systems for 
 
