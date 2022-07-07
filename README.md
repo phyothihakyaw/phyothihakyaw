@@ -7,7 +7,8 @@ Love to discuss about tech, business domains, writing code in a quite place, and
 
 :mailbox_with_mail: Reach me at - phyothihakyaw.personal@gmail.com
 
-<a href="https://github.com/phyothihakyaw/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phyothihakyaw&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="phyothihakyaw's github stats" /></a> <a href="https://github.com/phyothihakyaw/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyothihakyaw&layout=compact&theme=buefy&hide_border=true" /></a>
+| <a href="https://github.com/phyothihakyaw/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phyothihakyaw&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Phyo Thiha's github stats" /></a> | <a href="https://github.com/phyothihakyaw/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phyothihakyaw&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **phyothihakyaw/phyothihakyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
