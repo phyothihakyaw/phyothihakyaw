@@ -1,7 +1,7 @@
 # About Me
 `Mingalaba!` </br>
 Welcome to one of my corners on the web. </br>
-Just someone who love to solve, and build things. Currently working for @westerndigitalcorporation and building @tutorpoint-io. </br>
+Just someone who love to solve, and build things. Currently working for [@westerndigitalcorporation](https://github.com/westerndigitalcorporation) and building [@tutorpoint-io](https://github.com/tutorpoint-io). </br>
 Currently trying to write blogs on my life experiences.
 
 ```go
