@@ -1,7 +1,7 @@
 # About Me
-`Mingalarpar!` </br>
-Welcome to one of my corners on the web.
-Just someone who love to solve, and build things. Currently working for `Westerrn Digital` and building @tutorpoint-io. 
+`Mingalaba!` </br>
+Welcome to one of my corners on the web. </br>
+Just someone who love to solve, and build things. Currently working for `Westerrn Digital` and building @tutorpoint-io. </br>
 Currently trying to write blogs on my life experiences.
 
 ```go
