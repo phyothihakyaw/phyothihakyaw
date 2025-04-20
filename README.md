@@ -1,5 +1,5 @@
 # About Me
-`Mingalarpar!` 
+`Mingalarpar!` </br>
 Welcome to one of my corners on the web.
 Just someone who love to solve, and build things. Currently working for `Westerrn Digital` and building @tutorpoint-io. 
 Currently trying to write blogs on my life experiences.
